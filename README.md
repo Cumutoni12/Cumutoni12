@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=Cumutoni12&label=Profile%20views&color=0e75b6&style=flat" alt="Cumutoni12" />
 </p>
 
 ---
