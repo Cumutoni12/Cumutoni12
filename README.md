@@ -5,9 +5,9 @@
 
 🌱 I’m currently learning **building Scalable Full-stask Applications**
 
-💬 Ask me about ** HTM,CSS,JavaScript,React,Tailwind,SQL,Python **
+💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind, SQL, Python**
 
-📫 How to reach me: ** cumutoni@gmail.com **
+📫 How to reach me: **cumutoni@gmail.com**
 
 ---
 
