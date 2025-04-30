@@ -1,32 +1,25 @@
 <h1 align="center">Hi 👋, I'm Clarisse Umutoni </h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cumutoni12&label=Profile%20views&color=0e75b6&style=flat" alt="Cumutoni12" />
-</p>
-
 ---
 
-🌱 I’m currently learning **[Tech or Framework you're learning now]**
+🌱 I’m currently learning ** building Scalable Full-stask Applications **
 
-👨‍💻 All of my projects are available at [yourportfolio.com](https://yourportfolio.com)
+💬 Ask me about ** HTM,CSS,JavaScript,React,Tailwind,SQL,Python,**
 
-💬 Ask me about **React, Node.js, MongoDB, Express, TypeScript, and Docker**
-
-📫 How to reach me: **your.email@example.com**
-
-📄 Know about my experiences: [Resume Link](https://yourwebsite.com/resume.pdf)
-
-⚡ Fun fact: I love building side projects and contributing to open source!
+📫 How to reach me: ** cumutoni@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript)
+
+
 
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
