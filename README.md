@@ -34,11 +34,6 @@
 #### DevOps & Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-## 🛠️ Tools
-
-
-
-
 
 ### 📫 Connect with me:
 
