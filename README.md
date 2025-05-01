@@ -37,7 +37,8 @@
 
 ### 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarisse-umutoni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/clarisse-umutoni)
+
 
 
 
