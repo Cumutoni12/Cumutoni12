@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clarisse Umutoni </h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
+<h3 align="center">A passionate Database Administrator </h3>
 
 ---
 
